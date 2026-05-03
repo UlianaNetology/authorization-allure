@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Форма авторизации заполняется валидными данными и после нажатия на кнопку ""login"" отображается приветствие.","1858","Успешная авторизация","tests","2026-05-03","passed","2026-05-03","TestAuthorization","test_form","",""
+"Форма авторизации заполняется не валидными данными и после нажатия на кнопку ""login"" отображается ошибка","1326","Ошибка авторизации","tests","2026-05-03","passed","2026-05-03","TestAuthorization","test_form","",""

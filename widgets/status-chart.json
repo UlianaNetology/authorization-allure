@@ -1,0 +1,1 @@
+[{"uid":"4b8d3928746b5a0b","name":"Успешная авторизация","time":{"start":1777769763188,"stop":1777769765046,"duration":1858},"status":"passed","severity":"normal"},{"uid":"4bde303f9c369520","name":"Ошибка авторизации","time":{"start":1777769765390,"stop":1777769766716,"duration":1326},"status":"passed","severity":"normal"}]
